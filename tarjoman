@@ -1,0 +1,5 @@
+vless://9c5b3376-f5a8-4c56-85d3-610961b6298a@213.176.7.45:47611?type=tcp&security=none#tun-direct-tarjoman
+vless://605631a1-619c-462f-8db9-47130d63dcfb@213.176.7.45:58658?type=ws&path=%2Feeseeerw&host=s5.tapsi.top&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#ws-tls-tarjoman2
+vless://9d54c43a-9ded-4da0-833a-94de4b4abbee@213.176.7.45:58901?type=tcp&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#tcp-tls-tarjoman3
+vless://84ef61cf-ca0b-4fb4-8808-5500ad27c95b@213.176.7.45:25275?type=tcp&security=reality&pbk=RpoMpR3dAJZeTbYkiwBG_0-frcrlkHkP8S3x6oUqRGQ&fp=random&sni=yahoo.com&sid=6232b00825ce81&spx=%2F#tun-reality1-tarjoman4
+vless://9037b973-a276-478e-9cac-f06cfbc767ff@213.176.7.45:22616?type=tcp&security=reality&pbk=l8Q40nClX8PElxK7bOk3IsMQg5hbRtyi4yygG2CpKSk&fp=random&sni=ftp.debian.org&sid=7d6d&spx=%2F#tun-reality2-tarjoman5
