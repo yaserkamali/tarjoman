@@ -4,3 +4,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U2docXlLUDh5VVd1bDhwMU9LbDJpTy9zcnQzYnQ0QWt
 socks://akFWWXRSWGNGTjowVWIxS29vRTFl@213.176.127.25:13410#socks
 vless://8113ee22-15f8-40d4-8396-a5826e66b982@213.176.127.25:443?type=tcp&security=reality&pbk=EMRwHZA8Fi2bEfvfgwzYx9Qacx34TtlpPKos_AarOys&fp=random&sni=gsmarena.com&sid=9ef26b2c87&spx=%2F#r3-t4
 vless://61771928-ce92-444b-a4dc-660ecee3d738@213.176.127.25:29615?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v-t5
+vless://35fc333c-76e8-4f27-ac41-8a642fd56de0@213.176.127.25:20869?type=ws&path=%2Fws&host=game.gameserveryas.ir&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v2-t6
